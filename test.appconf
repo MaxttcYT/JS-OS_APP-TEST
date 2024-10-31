@@ -1,1 +1,14 @@
-
+{
+    "name": "Test app",
+    "id": "testapp",
+    "description": "",
+    "version": "0.71",
+    "author": "The great Developer",
+    "icon": "https://img.icons8.com/color/code",
+    "clt": false,
+    "WindowConfig": {
+        "width": 400,
+        "height": 400,
+        "NavBar": { "close": true, "minimize": true, "maximize": true }
+    }
+}
