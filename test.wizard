@@ -1,1 +1,6 @@
-
+{
+    "app": "test.app",
+    "appsrc": "test.appsrc",
+    "appconf": "test.appconf",
+    "wizard-package-name": "Test App"
+}
